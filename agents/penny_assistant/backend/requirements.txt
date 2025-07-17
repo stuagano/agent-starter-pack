@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+google-cloud-firestore
+google-cloud-aiplatform
+PyPDF2
+python-dotenv
+adk
+adk-memorybank
+adk-evaluation 

@@ -199,3 +199,7 @@ cleanup_e2e_projects.sh
 .cloudbuild/terraform/vars/env.tfvars
 docs/.vitepress/cache
 tests/cicd/delete_gcp_resources.sh
+penny-assistant-sa-key.json
+penny-assistant-sa-key.json
+penny-assistant-sa-key.json
+penny-assistant-sa-key.json
