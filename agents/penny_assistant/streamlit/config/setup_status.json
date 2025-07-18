@@ -1,0 +1,8 @@
+{
+  "firestore": {"configured": false, "collection": "user_lists"},
+  "calendar": {"configured": false, "credentials_file": null},
+  "vertex_ai": {"configured": false, "embedding_model": "textembedding-gecko@001"},
+  "vector_search": {"configured": false, "index_name": "penny-assistant-index"},
+  "project_id": "praxis-beacon-456620-s5",
+  "region": "us-central1"
+}
